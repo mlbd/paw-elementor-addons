@@ -1,0 +1,21 @@
+.elementor-add-new-section .elementor-add-paw-button {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    height: 40px;
+    width: 40px;
+    color: #fff;
+    font-size: 16px;
+    border-radius: 50%;
+    transition: all .3s;
+    cursor: pointer;
+    background-color: #7b3dfd;
+    margin-left: 5px;
+}
+
+.elementor-add-paw-button {
+    background-image: url('../images/themepaw.svg');
+    background-repeat: no-repeat;
+    background-size: 20px;
+    background-position: center;
+}
